@@ -10,5 +10,5 @@ Dezhi Sun (1300060609@163.com)
 ##Usage
 ---
 ```python ni.py```<br>
-```python run.py```
+```python run.py```<br>
 ```python analysis.py```
